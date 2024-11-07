@@ -13,4 +13,4 @@ Comprehensive evaluations on public and private datasets demonstrate that TexLiv
 
 Paper: [arxiv](https://arxiv.org/abs) 
 
-[//]: # (![Framework]&#40;over.png&#41;)
+[//]: # (![Framework]&#40; over.png&#41;)
