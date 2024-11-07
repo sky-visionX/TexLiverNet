@@ -13,4 +13,4 @@ Comprehensive evaluations on public and private datasets demonstrate that TexLiv
 
 Paper: [arxiv](https://arxiv.org/abs) 
 
-[//]: # (![PTQ4RIS Framework]&#40;image.png&#41;)
+[//]: # (![Framework]&#40;over.png&#41;)
