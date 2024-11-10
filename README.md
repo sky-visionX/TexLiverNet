@@ -11,6 +11,6 @@ TexLiverNet employs an agent-based cross-attention module that integrates text f
 Additionally, enhanced spatial and adaptive frequency domain perception is proposed to precisely delineate lesion boundaries, reduce background interference, and recover fine details in small lesions. 
 Comprehensive evaluations on public and private datasets demonstrate that TexLiverNet achieves superior performance compared to current state-of-the-art methods. 
 
-Paper: [arxiv](https://arxiv.org/abs) 
+Paper: [arxiv](https://export.arxiv.org/abs/2411.04595) 
 
 ![image](over.png)
