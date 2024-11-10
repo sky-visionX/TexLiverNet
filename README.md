@@ -14,3 +14,7 @@ Comprehensive evaluations on public and private datasets demonstrate that TexLiv
 Paper: [arxiv](https://export.arxiv.org/abs/2411.04595) 
 
 ![image](over.png)
+
+## Usage
+
+### Data Preparation
