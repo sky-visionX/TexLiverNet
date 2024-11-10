@@ -19,5 +19,8 @@ Paper: [arxiv](https://export.arxiv.org/abs/2411.04595)
 
 ### 1、Data Preparation
  The original data can be downloaded in following links:  
-     · 3D-IRCADb -[Link（Original）](https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01/)  
-     · VTLiTS -It is being sorted out.
+    >  · 3D-IRCADb -[Link（Original）](https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01/)  
+    >  · VTLiTS -It is being sorted out.
+### 2、PubMedBERT  
+   > Text encoder We use BiomedCLIP-PubMedBERT, please click the link for specific usage  
+   > https://huggingface.co/ZiyueWang/biomedclip
