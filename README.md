@@ -17,4 +17,6 @@ Paper: [arxiv](https://export.arxiv.org/abs/2411.04595)
 
 ## Usage
 
-### Data Preparation
+### 1、Data Preparation
+  The original data can be downloaded in following links:
+    3D-IRCADb -[Link（Original）](https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01/)
